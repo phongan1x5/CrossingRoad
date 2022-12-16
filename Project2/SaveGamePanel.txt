@@ -1,0 +1,21 @@
+*==================================================*
+|       NAME:                                      |
+|**************************************************|
+|                                                  |
+|                     EXAMPLE1                     |
+|                                                  |
+|                     EXAMPLE2                     |
+|                                                  |
+|                     EXAMPLE3                     |
+|                                                  |
+|                     EXAMPLE4                     |
+|                                                  |
+|                                                  |
+|--------------------------------------------------|
+|!NOTE! File name can only have 10 character and   |
+|               all latin lowercase                |
+|                                                  |
+|       Press "backspace" to erase a character     |
+|       Press "enter to save the file"             |
+|       Press "esc" to exit this menu              |
+*==================================================* 

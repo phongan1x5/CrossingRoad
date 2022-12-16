@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\Admin\Downloads\Project2\Project2\ConsoleHandle.h(198,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Downloads\Project2\Project2\ConsoleHandle.h(209,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Downloads\Project2\Project2\CGame.h(92,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Downloads\Project2\Project2\CGame.h(117,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Downloads\Project2\Project2\CGame.h(142,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Downloads\Project2\Project2\CGame.h(167,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Downloads\Project2\Project2\CGame.h(305,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Downloads\Project2\Project2\CGame.h(658): warning C4715: 'CGame::pauseGamePanel': not all control paths return a value
+C:\Users\Admin\Downloads\Project2\Project2\CGame.h(531): warning C4715: 'CGame::failGame': not all control paths return a value
+  Project2.vcxproj -> C:\Users\Admin\Downloads\Project2\x64\Debug\Project2.exe
